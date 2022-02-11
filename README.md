@@ -1,2 +1,5 @@
 # LinuxCommand
-Linux command learning Daquan
+## English |  [中文版]("https://github.com/cmdhelp/LinuxCommand/blob/main/readme-zh") 
+#### 
+
+[download file]("https://cmdhelp.com/command/how-to-use-curl-to-download-file-in-linux") 
